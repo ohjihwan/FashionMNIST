@@ -62,7 +62,7 @@ optimizer = optim.Adam(model.parameters(), lr=0.001)
 print("=================")
 print("모델 학습 시작...!")
 print("=================")
-num_epochs = 20
+num_epochs = 30
 for epoch in range(num_epochs):
 	model.train()
 	running_loss = 0.0

@@ -9,4 +9,4 @@ env/
 
 data/
 
-.pth/
+Fashion_cnn.pth
